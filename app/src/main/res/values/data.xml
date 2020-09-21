@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="images">
+        <item>@drawable/c_leia</item>
+        <item>@drawable/c_luke</item>
+        <item>@drawable/p_naboo</item>
+        <item>@drawable/tatooine</item>
+        <item>@drawable/tie_fighter</item>
+        <item>@drawable/x_wing</item>
+    </array>
+
+    <string-array name="names">
+        <item>Leia Organa</item>
+        <item>Luke Skywalker</item>
+        <item>Naboo</item>
+        <item>Tatooine</item>
+        <item>Caça Estelar TIE/LN</item>
+        <item>Caça Estelar X-Wing</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>
+            Leia Organa (nascida Leia Amidala Skywalker) era uma Humana sensível à Força que serviu como Princesa de Alderaan, membro do Senado Imperial, General da Aliança pela Restauração da República e da Nova República, e a general fundadora da Resistência. Apesar de tudo, ela se tornou fundamental na derrota do Império Galáctico na Guerra Civil Galáctica e liderou a guerra contra a Primeira Ordem. Ela nasceu dezenove anos antes da Batalha de Yavin como filha do Cavaleiro Jedi Anakin Skywalker e da Senadora Padmé Amidala. Depois que sua mãe morreu e seu pai caiu para o lado sombrio da Força para se tornar Darth Vader, Leia foi adotada pela Casa dos Organa. Ela tomou o lugar de seu pai adotivo, Bail Organa, no Senado e ajudou a liderar a batalha contra o Império.
+        </item>
+        <item>
+            Luke Skywalker foi um Mestre Jedi Humano do sexo masculino. Ele era o filho do Cavaleiro Jedi caído Anakin Skywalker e da Senadora Padmé Amidala, o neto de Shmi Skywalker Lars, o sobrinho de Owen e Beru Lars, irmão gêmeo de Leia Organa e tio de Ben Solo. Nascido no asteroide Polis Massa, a mãe de Luke morreu no parto, e os gêmeos foram separados sem terem sido apresentados ao seu pai, recentemente transformado no Lorde Sith Darth Vader. Skywalker foi separado de sua irmã e levado pelo Mestre Jedi Obi-Wan Kenobi para o planeta Tatooine para ser criado pela família Lars, escondido do Império Galáctico
+        </item>
+        <item>
+            Uma joia brilhante na Orla Média, Naboo tinha renome em toda a galáxia como um centro de paz e aprendizado. Suas belas cidades coexistiam em harmonia com as planícies gramadas e as colinas que as cercavam. O clima era temperado, e os predadores mais perigosos eram relegados, principalmente, ao peculiar núcleo aquático de Naboo. Ao contrário da maioria dos planetas que possuíam núcleos de lava, Naboo era vazado e preenchido com oceanos que correm em seu centro. E, nessas águas profundas, eram encontrados os ferozes Sando Aqua e Assassino Marítimo Opee.
+        </item>
+        <item>
+            Tatooine era um planeta desértico localizado nos Territórios da Orla Exterior. O planeta fazia parte de um sistema solar binário. Devido à falta de água superficial, muitos residentes do planeta drenavam água da atmosfera através de fazendas de umidade.
+        </item>
+        <item>
+            O caça estelar de superioridade especial TIE/ln, estilizado TIE/LN e mais comumente chamado de caça TIE, foi um dos caça estelares mais comuns durante a Era do Império e considerado um símbolo de poder do Império Galáctico.
+        </item>
+        <item>
+            Caças estelares X-wing eram um tipo de caça estelar marcados por suas distintivas asas que se assemelhavam a um "X" quando em posição de ataque. Durante a Guerra Civil Galáctica, a Aliança Rebelde usou caças T-65B X-wing em várias batalhas, como a Batalha de Yavin e a Batalha de Endor.
+        </item>
+    </string-array>
+
+</resources>
